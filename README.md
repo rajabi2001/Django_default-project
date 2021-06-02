@@ -8,4 +8,6 @@ some useful command :
 - django-admin startproject "yourproj"
 - py manage.py runserver
 - py manage.py startapp "yourapp"
+- py manage.py makemigrations "yourapp"
+- py manage.py migrate
 
