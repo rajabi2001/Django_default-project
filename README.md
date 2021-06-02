@@ -10,4 +10,5 @@ some useful command :
 - py manage.py startapp "yourapp"
 - py manage.py makemigrations "yourapp"
 - py manage.py migrate
+- py manage.py createsuperuser
 
