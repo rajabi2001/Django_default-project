@@ -1,4 +1,5 @@
-# This is the default project of Django based on www.djangoproject.com
+# This is the default project of Django 
+based on www.djangoproject.com
 
 
 some useful command :
