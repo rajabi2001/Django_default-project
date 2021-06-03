@@ -1,4 +1,4 @@
-# Django_test1
+# This is the default project of Django based on www.djangoproject.com
 
 
 some useful command :
